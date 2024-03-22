@@ -1,4 +1,4 @@
-﻿namespace Server.Instructure.Extension;
+﻿namespace Server.Infrastructure.Extension;
 
 public static class RegisterApplicationExtension
 {

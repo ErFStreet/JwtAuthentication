@@ -1,4 +1,4 @@
-﻿namespace Server.Instructure.TokenHelper;
+﻿namespace Server.Infrastructure.TokenHelper;
 
 public class ValidateTokenHelper
 {

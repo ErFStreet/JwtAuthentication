@@ -1,4 +1,4 @@
-﻿namespace Server.Instructure.Contracts;
+﻿namespace Server.Infrastructure.Contracts;
 
 public interface ITokenGenerator
 {
